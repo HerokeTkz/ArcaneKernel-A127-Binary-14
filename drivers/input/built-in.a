@@ -1,0 +1,88 @@
+!<thin>
+//                                              1298      `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+sec_cmd.o/
+sec_tsp_log.o/
+ff-memless.o/
+matrix-keymap.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/samsung-keypad.o/
+keyboard/s2mpu12-key.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/synaptics/td4150/synaptics_tcm_spi.o/
+touchscreen/synaptics/td4150/synaptics_tcm_core.o/
+touchscreen/synaptics/td4150/synaptics_tcm_touch.o/
+touchscreen/synaptics/td4150/synaptics_tcm_sec_fn.o/
+touchscreen/synaptics/td4150/synaptics_tcm_sec_fn_test.o/
+touchscreen/synaptics/td4150/synaptics_tcm_zeroflash.o/
+touchscreen/ili9881x/ili9881x.o/
+touchscreen/ili9881x/ili9881x_spi.o/
+touchscreen/ili9881x/ili9881x_init.o/
+touchscreen/ili9881x/ili9881x_ic.o/
+touchscreen/ili9881x/ili9881x_touch.o/
+touchscreen/ili9881x/ili9881x_mp.o/
+touchscreen/ili9881x/ili9881x_hostdl.o/
+touchscreen/ili9881x/ili9881x_node.o/
+touchscreen/ili9881x/ili9881x_sec_fn.o/
+touchscreen/ili9881x/ili9881x_sec_fn_test.o/
+touchscreen/novatek/nt36525/nt36xxx.o/
+touchscreen/novatek/nt36525/nt36xxx_fw_update.o/
+touchscreen/novatek/nt36525/nt36xxx_ext_proc.o/
+touchscreen/novatek/nt36525/nt36xxx_mp_ctrlram.o/
+touchscreen/novatek/nt36525/nt36xxx_sec_fn.o/
+misc/uinput.o/
+/0              0           0     0     644     441376    `
+/9              0           0     0     644     149408    `
+/25             0           0     0     644     171064    `
+/37             0           0     0     644     156344    `
+/48             0           0     0     644     179000    `
+/59             0           0     0     644     175256    `
+/74             0           0     0     644     172360    `
+/88            /0           0     0     644     149696    `
+/105            0           0     0     644     150448    `
+/119            0           0     0     644     431880    `
+/128            0           0     0     644     257808    `
+/146            0           0     0     644     270128    `
+/168            0           0     0     644     208760    `
+/195            0           0     0     644     260008    `
+/219            0           0     0     644     288288    `
+/236            0           0     0     644     178392    `
+/253            0           0     0     644     290512    `
+/270            0           0     0     644     193608    `
+/285            0           0     0     644     192512    `
+/303            0           0     0     644     174912    `
+/319            0           0     0     644     150808    `
+/349            0           0     0     644     300824    `
+/399            0           0     0     644     670480    `
+/450            0           0     0     644     296600    `
+/502            0           0     0     644     318016    `
+/555            0           0     0     644     232848    `
+/613            0           0     0     644     351168    `
+/669            0           0     0     644     562184    `
+/702            0           0     0     644     438344    `
+/739           /0           0     0     644     536904    `
+/777            0           0     0     644     552480    `
+/813            0           0     0     644     615888    `
+/852            0           0     0     644     832512    `
+/888            0           0     0     644     508912    `
+/928           /0           0     0     644     882424    `
+/966            0           0     0     644     580064    `
+/1006           0           0     0     644     363080    `
+/1051           0           0     0     644     605584    `
+/1090           0           0     0     644     296376    `
+/1139           0           0     0     644     190712    `
+/1187           0           0     0     644     396848    `
+/1237           0           0     0     644     734208    `
+/1283           0           0     0     644     285040    `
